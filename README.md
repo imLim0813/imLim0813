@@ -21,5 +21,6 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-C0C0C0?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:imlim0813@naver.com)](mailto:imlim0813@naver.com)
 ## 
 
-<br/><br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imlim0813&layout=compact)
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imlim0813&layout=compact&bg_color=00000000)

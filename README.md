@@ -7,13 +7,16 @@
 ![android](https://img.shields.io/badge/android-C0C0C0.svg?&style=for-the-badge&logo=android&logoColor=white)
 ![java](https://img.shields.io/badge/java-C0C0C0.svg?&style=for-the-badge&logo=java&logoColor=white)
 
-### Tools
+### IDE & Tools
+
+![intellijidea](https://img.shields.io/badge/intellijidea-C0C0C0.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
+![visualstudiocode](https://img.shields.io/badge/visualstudiocode-C0C0C0.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![visualstudio](https://img.shields.io/badge/visualstudio-C0C0C0.svg?&style=for-the-badge&logo=visualstudio&logoColor=white)
+![pycharm](https://img.shields.io/badge/pycharm-C0C0C0.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
+<br/>
 
 ![git](https://img.shields.io/badge/git-C0C0C0.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-C0C0C0.svg?&style=for-the-badge&logo=notion&logoColor=white)
-![intellijidea](https://img.shields.io/badge/intellijidea-C0C0C0.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
-![visualstudiocode](https://img.shields.io/badge/visualstudiocode-C0C0C0.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![pycharm](https://img.shields.io/badge/pycharm-C0C0C0.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
 
 ### Contacts
 

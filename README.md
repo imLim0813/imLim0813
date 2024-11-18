@@ -4,7 +4,6 @@
 
 ![Python](https://img.shields.io/badge/Python-C0C0C0.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![csharp](https://img.shields.io/badge/csharp-C0C0C0.svg?&style=for-the-badge&logo=csharp&logoColor=white)
-![android](https://img.shields.io/badge/android-C0C0C0.svg?&style=for-the-badge&logo=android&logoColor=white)
 ![java](https://img.shields.io/badge/java-C0C0C0.svg?&style=for-the-badge&logo=java&logoColor=white)
 
 ### IDE & Tools
